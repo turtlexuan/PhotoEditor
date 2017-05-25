@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <TOCropViewController/TOCropViewController.h>
 
 @interface ViewController : UIViewController
 
